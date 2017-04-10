@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td align=center>电脑用户推荐下载最新版<br/>
-      电脑版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogatew.zip">https://git.io/opipe</a><br/>
+      电脑版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogatew.zip">https://git.io/opipe</a><br/>
     </td>
   </tr>
   <tr>
